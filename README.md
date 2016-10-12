@@ -1,6 +1,6 @@
 # springCloud-demo
 
-自己搭的一个springCloud小项目平台
+自己搭的一个springCloud的demo平台
 
 > * eureka-service是注册中心 并实现高可用
 > * compute-service是服务提供方
