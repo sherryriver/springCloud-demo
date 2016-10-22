@@ -1,6 +1,6 @@
 # springCloud-demo
 
-自己搭建的一个基于springCloud微服务的demo平台
+自己搭建的一个基于springCloud微服务的平台demo
 
 > * eureka-service是注册中心 并实现高可用
 > * compute-service是服务提供方
@@ -8,5 +8,5 @@
 > * api-filter是通过zuul实现的服务网关
 
 更多介绍可以移步：
-[springCloud-demo的搭建](http://touch28.github.io/2016/08/26/springCloud%E6%90%AD%E5%BB%BA/)
+[springCloud-demo的搭建](http://sherryriver.com/2016/08/26/springCloud搭建/)
 
