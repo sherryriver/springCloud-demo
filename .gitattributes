@@ -1,2 +1,2 @@
-*.Shell linguist-language=Java
-*.Batchfile linguist-language=Java
+*.java linguist-language=Java
+*.xml linguist-language=Java
