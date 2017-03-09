@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/badge/sherryriver-%E6%9C%A8%E6%9C%A8%E4%B8%89%E5%8F%AF-brightgreen.svg)]()
 # springCloud-demo
 
 自己搭建的一个基于springCloud微服务的平台demo
